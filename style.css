@@ -5,7 +5,7 @@ body {
 }
 
 .header {
-    font-size: 5em;
+    font-size: 4em;
 }
 
 .first-stanza {
@@ -16,7 +16,7 @@ body {
 
 .first-a {
     flex: 3;
-    font-size: 4em;
+    font-size: 3em;
     margin: 3px;
 }
 
@@ -35,7 +35,7 @@ body {
 
 .second-b {
     flex: 3;
-    font-size: 4em;
+    font-size: 3em;
 
 
 }
