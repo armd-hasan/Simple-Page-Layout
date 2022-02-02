@@ -1,0 +1,80 @@
+body {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: 'Dongle', sans-serif;;
+}
+
+.header {
+    font-size: 3em;
+}
+
+.first-stanza {
+    display: flex;
+
+
+}
+
+.first-a {
+    flex: 3;
+    font-size: 3em;
+    margin: 3px;
+}
+
+.first-b {
+    flex: 1;
+    margin: 3px;
+}
+
+.second-stanza {
+    display: flex;
+}
+
+.second-a {
+    flex: 1;
+}
+
+.second-b {
+    flex: 3;
+    font-size: 3em;
+
+
+}
+
+.i-do {
+    display: flex;
+
+}
+
+.i-do-a {
+    flex: 1;
+    border: 3px solid #eee;
+    border-radius: 7px;
+    margin: 2px;
+    padding: 3px;
+
+}
+
+.i-do-b {
+    flex: 1;
+    border: 3px solid #eee;
+    border-radius: 7px;
+    margin: 2px;
+    padding: 3px;
+
+
+}
+
+.i-do-c {
+    flex: 1;
+    border: 3px solid #eee;
+    border-radius: 7px;
+    margin: 2px;
+    padding: 3px;
+}
+
+.rights {
+    text-align: center;
+}
+.icon{
+    width: 60px;
+}
